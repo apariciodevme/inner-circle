@@ -23,7 +23,7 @@ const Hero = () => {
                     </p>
 
                     <div className="flex flex-col md:flex-row gap-4 justify-center items-center mt-8">
-                        <button className="btn btn-lg hover:bg-silver-200  bg-white text-black border-none rounded-full px-12 font-light tracking-wide transition-all duration-300 hover:scale-105 shadow-lg shadow-silver-500/20">
+                        <button className="btn btn-lg hover:bg-silver-200  bg-white opacity-80  text-black border-none rounded-full px-12 font-light tracking-wide transition-all duration-300 hover:scale-105 shadow-lg shadow-silver-500/20">
                             Apply for Membership
                         </button>
                         <button className="btn btn-lg btn-ghost text-white font-light tracking-wide hover:bg-white/5 rounded-full px-8">

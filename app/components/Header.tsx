@@ -14,8 +14,8 @@ const Header = () => {
 
                 <div className="navbar-start">
                     <a className="flex items-center gap-3 text-white hover:opacity-80 transition-opacity" href="/">
-                        <div className="relative h-10 w-10 overflow-hidden rounded-full border border-white/20">
-                            <img src="/inner-logo.jpg" alt="Inner Circle Logo" className="h-full w-full object-cover" />
+                        <div className="relative h-10 w-10 overflow-hidden">
+                            <img src="/innerIcon.png" alt="Inner Circle Logo" className="h-full w-full object-cover" />
                         </div>
                         <span className="text-xl font-light tracking-wide">Inner Circle</span>
                     </a>
